@@ -1,2 +1,1 @@
-# alx-project-0x02-setup
-ALX Prodev: Nextjs
+# Next.js Project Setup and Basics
